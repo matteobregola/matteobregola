@@ -3,7 +3,7 @@
 <div>
 <ul>
   <li>💻 I’m a Computer Science student at @unitn!</li>
-  <li>🌱 I’m currently learning Dart and Flutter...</li>
+  <li>🌱 I’m currently working on Breach and Attack Simulation (BAS) tools </li>
   </ul>
 
  
